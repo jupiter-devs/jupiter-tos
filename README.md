@@ -8,7 +8,8 @@
 [![License](https://img.shields.io/badge/license-custom-lightgrey)](https://github.com/flux-music/flux-music-license)
 [![Discord](https://img.shields.io/badge/support-discord-5865F2?logo=discord\&logoColor=white)](https://discord.gg/yd2xHKw5ZB)
 
-Last Updated: April 14, 2026
+Last Updated: May 22, 2026
+
 Developer: iworship.ayush & yours.karan
 
 ---
@@ -136,7 +137,6 @@ These Terms may be updated at any time.
 
 📬 11. Contact
 
-* 📧 Email: [fluxmusicdc@outlook.com](mailto:fluxmusicdc@outlook.com)
 * 💬 Discord Server: https://discord.gg/yd2xHKw5ZB
 
 ---
